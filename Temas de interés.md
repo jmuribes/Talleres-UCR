@@ -1,6 +1,6 @@
 ## Lista de temas de interés:
 
-Manipulación básica:
+### Manipulación básica:
 -Descargar archivos directamente de servidores públicos.
 
 -Control de calidad (```fastqc```, ```picard```).
@@ -12,14 +12,14 @@ Manipulación básica:
 -Visualización de secuencias (```IGV```).
 
 
-ADN:
+### ADN:
 -Mapeo (```bwa```).
 
 -Manipulación para ordenar, filtrar, etc (```samtools```).
 
 -Llamado de variantes (```GATK```).
 
-ARN:
+### ARN:
 -Mapeo (```STAR```).
 
 -Conteo de transcritos (```salmon```).
