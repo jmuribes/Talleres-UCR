@@ -23,7 +23,8 @@ Para comenzar a familiarizarse con el uso de la línea de comandos es bueno inte
 
 Los ambientes en ```conda``` facilitan enormemente la instalación de programas de uso cotidiano, ya que los programas instalados dentro del ambiente quedan activos al iniciar cada sesión.
 
-Instale ```Anaconda``` siguiendo los pasos para su sistema operativo: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
+Instale ```Anaconda``` siguiendo los pasos para su sistema operativo: https://conda.io/projects/conda/en/latest/user-guide/install/index.html.
+
 -Confirme que ```Anaconda``` ha sido correctamente instalado (https://docs.anaconda.com/anaconda/install/verify-install/).
 
 Una vez que ```Anaconda``` ha sido instalado, ya puede crear ambientes de la siguiente manera:
@@ -31,5 +32,5 @@ Una vez que ```Anaconda``` ha sido instalado, ya puede crear ambientes de la sig
 ```bash
 conda create -n nombre_ambiente programa1 programa2 programaN
 conda activate nombre_ambiente
-conda deactivate nombre_ambiente
+conda deactivate
 ```
