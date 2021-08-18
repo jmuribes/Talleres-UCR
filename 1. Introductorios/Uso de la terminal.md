@@ -17,7 +17,7 @@ Para comenzar a familiarizarse con el uso de la línea de comandos es bueno inte
 
 -Inspeccione un archivo (```less -S```, ```head```, ```tail```).
 
--Cuente cuántas líneas tiene el archivo (```wc -l```).
+-Cuente cuántas líneas tiene el archivo (```wc -l nombre_archivo```).
 
 ## 2. Instalar ```conda``` para crear ambientes donde trabajar.
 
