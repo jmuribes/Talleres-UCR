@@ -8,10 +8,15 @@ Para comenzar a familiarizarse con el uso de la línea de comandos es bueno inte
 
 
 -Inicie la terminal.
+
 -Inspeccione la carpeta donde se encuentra y cambie de directorio (```ls```, ```cd```).
+
 -Cree una nueva carpeta (```mkdir```).
+
 -Copie o mueva el archivo que descargó (```Homo_sapiens.GRC38.104.chromosome.X.gff3```) a la nueva carpeta (```cp```, ```mv```).
+
 -Inspeccione un archivo (```less -S```, ```head```, ```tail```).
+
 -Cuente cuántas líneas tiene el archivo (```wc -l```).
 
 ## 2. Instalar ```conda``` para crear ambientes donde trabajar.
