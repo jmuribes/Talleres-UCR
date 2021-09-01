@@ -14,7 +14,7 @@ Pasos:
 
 4. Cree un archivo nuevo con esta información.
 
-5. Bonus: cree un archivo con las coordinadas de inicio de cada exon(columna 4 del archivo GTF).
+5. Bonus: cree un archivo con las coordinadas de inicio de cada exon (columna 4 del archivo GTF).
 
 
 ### Ejercicio 2: buscar información específica en archivos.
