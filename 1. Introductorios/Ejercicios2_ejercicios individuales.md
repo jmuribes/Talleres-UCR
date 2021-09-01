@@ -21,7 +21,7 @@ Pasos:
 
 Objetivo: practicar la búsqueda de datos específicos en un archivo.
 
-1. ¿Cuántas isoformas tiene el gen ENSDARG00000117492? ¿En qué cromosoma está localizado?
+1. ¿Cuántas isoformas tiene el gen ENSDARG00000117492? ¿En qué cromosoma están localizadas?
 
 2. ¿Cuántos cromosomas tiene el pez cebra?
 
