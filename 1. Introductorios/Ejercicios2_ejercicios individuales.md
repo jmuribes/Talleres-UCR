@@ -16,3 +16,14 @@ Pasos:
 
 5. Bonus: cree un archivo con las coordinadas de inicio de cada exon(columna 4 del archivo GTF).
 
+
+### Ejercicio 2: buscar información específica en archivos.
+
+Objetivo: practicar la búsqueda de datos específicos en un archivo.
+
+1. ¿Cuántas isoformas tiene el gen ENSDARG00000117492? ¿En qué cromosoma está localizado?
+
+2. ¿Cuántos cromosomas tiene el pez cebra?
+
+
+
