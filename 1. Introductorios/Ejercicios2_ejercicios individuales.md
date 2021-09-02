@@ -8,7 +8,7 @@ Pasos:
 
 1. Descargar el archivo con la información de los genes del pez cebra.
 ```bash
-curl http://ftp.ensembl.org/pub/release-104/gtf/danio_rerio/Danio_rerio.GRCz11.104.gtf.gz -o zebrafish_104.gtf.gz```
+curl http://ftp.ensembl.org/pub/release-104/gtf/danio_rerio/Danio_rerio.GRCz11.104.gtf.gz -o zebrafish_104.gtf.gz
 gunzip zebrafish_104.gtf.gz
 ```
 
