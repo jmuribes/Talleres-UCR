@@ -14,10 +14,7 @@ conda activate talleres
 ## 2. Observar el formato de un archivo fastq.
 ```bash
 # Descargue un archivo de prueba.
-curl https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/a7dqzw81lojedl2/AB_subsample.fastq.gz -o AB_subsample.fastq.gz
-
-# Descomprimir el archivo.
-gunzip AB_subsample.fastq.gz
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/a7dqzw81lojedl2/AB_subsample.fastq
 
 # Observe el archivo utilizando los comandos ya conocidos.
 head AB_subsample.fastq
