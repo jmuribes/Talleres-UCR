@@ -5,7 +5,7 @@
 
 -Control de calidad (```fastqc```, ```picard```).
 
--Eliminar barcodes (```trimmomatic```).
+-Eliminar barcodes (```trimmomatic```, ```trim-galore```).
 
 -Definición de regiones (```bedtools```).
 
